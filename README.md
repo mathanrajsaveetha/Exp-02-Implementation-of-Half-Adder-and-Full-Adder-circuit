@@ -61,24 +61,25 @@ endmodule
 
 
 ### Output:
-###HALF ADDER
+
+### HALF ADDER
 ![image](https://github.com/mathanrajsaveetha/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119560501/305c3459-e0b8-444c-aad8-dd925aea04e8)
 ### FULL ADDER
 ![image](https://github.com/mathanrajsaveetha/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119560501/fe0af859-e8ed-402f-b424-3f2d39d77e2c)
 
 
 ### RTL
-##HALF ADDER
+### HALF ADDER
 ![image](https://github.com/mathanrajsaveetha/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119560501/e240a9be-eba2-425a-9ef9-746f5108b4c4)
-##FULL ADDER
+### FULL ADDER
 ![image](https://github.com/mathanrajsaveetha/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119560501/5cde060c-32d0-4f36-94f5-63014ee97480)
 
 
 
 ### TIMING DIAGRAM
-##HALF ADDER
+### HALF ADDER
 ![image](https://github.com/mathanrajsaveetha/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119560501/5d9f395d-2904-43bc-bdba-3a3b6ae84e68)
-##FULL ADDER
+### FULL ADDER
 ![image](https://github.com/mathanrajsaveetha/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119560501/71ffdf84-bc36-4890-bc9c-bfc995cd121f)
 
 
